@@ -1,0 +1,443 @@
+{
+  "19": {
+    "title": "Definite Integrals",
+    "topics": {
+      "19.1": {
+        "title": "Fundamental Theorem of Integral Calculus",
+        "book_page": "6"
+      },
+      "19.2": {
+        "title": "Evaluation of Definite Integrals",
+        "book_page": "7"
+      },
+      "19.3": {
+        "title": "Evaluation of Definite Integrals by Substitution",
+        "book_page": "21"
+      },
+      "19.4": {
+        "title": "Properties of Definite Integrals",
+        "book_page": "38"
+      },
+      "19.5": {
+        "title": "Integration as the Limit of a Sum",
+        "book_page": "83"
+      }
+    }
+  },
+  "20": {
+    "title": "Areas of Bounded Regions",
+    "topics": {
+      "20.1": {
+        "title": "Introduction",
+        "book_page": "20.1"
+      },
+      "20.2": {
+        "title": "Area as a Definite Integral",
+        "book_page": "102"
+      },
+      "20.3": {
+        "title": "Area using vertical strips",
+        "book_page": "103"
+      },
+      "20.4": {
+        "title": "Area using horizontal strips",
+        "book_page": "117"
+      },
+      "20.5": {
+        "title": "Area between two curves by using vertical strips",
+        "book_page": "121"
+      },
+      "20.6": {
+        "title": "Areas between two curves by using horizontal strips",
+        "book_page": "146"
+      }
+    }
+  },
+  "21": {
+    "title": "Differential Equations",
+    "topics": {
+      "21.1": {
+        "title": "Some definitions",
+        "book_page": "152"
+      },
+      "21.2": {
+        "title": "Formation of Differential Equations",
+        "book_page": "157"
+      },
+      "21.3": {
+        "title": "Solution of a Differential Equation",
+        "book_page": "170"
+      },
+      "21.4": {
+        "title": "Initial value problems",
+        "book_page": "176"
+      },
+      "21.5": {
+        "title": "General form of a first-order first-degree Differential Equation",
+        "book_page": "178"
+      },
+      "21.6": {
+        "title": "Methods of solving a first order first degree",
+        "book_page": "179"
+      },
+      "21.7": {
+        "title": "Applications of differential equations",
+        "book_page": "242"
+      }
+    }
+  },
+  "22": {
+    "title": "Algebra of Vectors",
+    "topics": {
+      "22.1": {
+        "title": "Introduction",
+        "book_page": "22.1"
+      },
+      "22.2": {
+        "title": "Representation of Vectors",
+        "book_page": "272"
+      },
+      "22.3": {
+        "title": "Types of Vectors",
+        "book_page": "273"
+      },
+      "22.4": {
+        "title": "Parallelogram law of addition of Vectors",
+        "book_page": "275"
+      },
+      "22.5": {
+        "title": "Properties of addition of Vectors",
+        "book_page": "276"
+      },
+      "22.6": {
+        "title": "Subtraction of Vectors",
+        "book_page": "277"
+      },
+      "22.7": {
+        "title": "Multiplication of a Vector by a scalar",
+        "book_page": "282"
+      },
+      "22.8": {
+        "title": "Position vector of a point",
+        "book_page": "286"
+      },
+      "22.9": {
+        "title": "Section Formulae",
+        "book_page": "287"
+      },
+      "22.10": {
+        "title": "Linear combination of Vectors",
+        "book_page": "291"
+      },
+      "22.11": {
+        "title": "Components of a vector in two dimension",
+        "book_page": "302"
+      },
+      "22.12": {
+        "title": "Components of a vector in three dimensions",
+        "book_page": "307"
+      },
+      "22.13": {
+        "title": "Collinearity",
+        "book_page": "313"
+      },
+      "22.14": {
+        "title": "Coplanarity",
+        "book_page": "322"
+      },
+      "22.15": {
+        "title": "Direction cosines and direction ratios",
+        "book_page": "326"
+      }
+    }
+  },
+  "23": {
+    "title": "Scalar or Dot Product",
+    "topics": {
+      "23.1": {
+        "title": "Introduction",
+        "book_page": "338"
+      },
+      "23.2": {
+        "title": "Angle between two Vectors",
+        "book_page": "338"
+      },
+      "23.3": {
+        "title": "The scalar or dot product",
+        "book_page": "338"
+      },
+      "23.4": {
+        "title": "Some geometrical problems based upon dot product",
+        "book_page": "369"
+      }
+    }
+  },
+  "24": {
+    "title": "Vector or Cross Product",
+    "topics": {
+      "24.1": {
+        "title": "Vector (or cross) Product",
+        "book_page": "380"
+      },
+      "24.2": {
+        "title": "Properties of vector Product",
+        "book_page": "381"
+      },
+      "24.3": {
+        "title": "Vector product in terms of Components",
+        "book_page": "384"
+      },
+      "24.4": {
+        "title": "Vectors normal to the plane of two given Vectors",
+        "book_page": "384"
+      },
+      "24.5": {
+        "title": "Some important results",
+        "book_page": "385"
+      },
+      "24.6": {
+        "title": "Lagrange's identity",
+        "book_page": "386"
+      }
+    }
+  },
+  "25": {
+    "title": "Scalar Triple Product",
+    "topics": {
+      "25.1": {
+        "title": "Introduction",
+        "book_page": "410"
+      },
+      "25.2": {
+        "title": "Scalar triple product",
+        "book_page": "410"
+      },
+      "25.3": {
+        "title": "Properties of scalar triple product",
+        "book_page": "411"
+      }
+    }
+  },
+  "26": {
+    "title": "Direction Cosines and Direction Ratios",
+    "topics": {
+      "26.1": {
+        "title": "Introduction",
+        "book_page": "428"
+      },
+      "26.2": {
+        "title": "Recapitulation",
+        "book_page": "428"
+      },
+      "26.3": {
+        "title": "Direction cosines and direction ratios of a line",
+        "book_page": "437"
+      },
+      "26.4": {
+        "title": "Angle between two vectors",
+        "book_page": "437"
+      }
+    }
+  },
+  "27": {
+    "title": "Straight Line in Space",
+    "topics": {
+      "27.1": {
+        "title": "Introduction",
+        "book_page": "452"
+      },
+      "27.2": {
+        "title": "Vector and cartesian equations of a line",
+        "book_page": "452"
+      },
+      "27.3": {
+        "title": "Angle between two lines",
+        "book_page": "462"
+      },
+      "27.4": {
+        "title": "Intersection of two lines",
+        "book_page": "470"
+      },
+      "27.5": {
+        "title": "Perpendicular distance of a line from a point",
+        "book_page": "474"
+      },
+      "27.6": {
+        "title": "Shortest distance between two Straight Lines",
+        "book_page": "480"
+      }
+    }
+  },
+  "28": {
+    "title": "The Plane",
+    "topics": {
+      "28.1": {
+        "title": "Plane",
+        "book_page": "491"
+      },
+      "28.2": {
+        "title": "Equations of a plane passing through a given point",
+        "book_page": "491"
+      },
+      "28.3": {
+        "title": "Intercept form of a plane",
+        "book_page": "498"
+      },
+      "28.4": {
+        "title": "Vector equation of a plane passing through a given point and normal to a given vector",
+        "book_page": "500"
+      },
+      "28.5": {
+        "title": "Equation of a plane in normal form",
+        "book_page": "507"
+      },
+      "28.6": {
+        "title": "Vector equation of a plane passing through three given points",
+        "book_page": "512"
+      },
+      "28.7": {
+        "title": "Angle between two planes",
+        "book_page": "515"
+      },
+      "28.8": {
+        "title": "Equation of a plane passing through a given point and parallel to two given vectors or lines",
+        "book_page": "522"
+      },
+      "28.9": {
+        "title": "Equation of a plane parallel to a given plane",
+        "book_page": "524"
+      },
+      "28.10": {
+        "title": "Equation of a plane through the intersection of two planes",
+        "book_page": "526"
+      },
+      "28.11": {
+        "title": "Distance of a point from a plane",
+        "book_page": "531"
+      },
+      "28.12": {
+        "title": "Distance between the parallel planes",
+        "book_page": "539"
+      },
+      "28.13": {
+        "title": "Line and a plane",
+        "book_page": "542"
+      },
+      "28.14": {
+        "title": "Image of a point in a plane",
+        "book_page": "569"
+      }
+    }
+  },
+  "29": {
+    "title": "Linear Programming",
+    "topics": {
+      "29.1": {
+        "title": "Introduction",
+        "book_page": "576"
+      },
+      "29.2": {
+        "title": "Linear programming problems",
+        "book_page": "576"
+      },
+      "29.3": {
+        "title": "Some definitions",
+        "book_page": "578"
+      },
+      "29.4": {
+        "title": "Mathematical formulation of linear programming problems",
+        "book_page": "578"
+      },
+      "29.5": {
+        "title": "Some definitions and results",
+        "book_page": "594"
+      },
+      "29.6": {
+        "title": "Graphical methods of solving linear programming problems",
+        "book_page": "595"
+      },
+      "29.7": {
+        "title": "Corner-point method",
+        "book_page": "595"
+      },
+      "29.8": {
+        "title": "Iso-profit or iso-cost method",
+        "book_page": "601"
+      },
+      "29.9": {
+        "title": "Different types of linear programming problems",
+        "book_page": "608"
+      },
+      "29.10": {
+        "title": "Some exceptional cases",
+        "book_page": "639"
+      }
+    }
+  },
+  "30": {
+    "title": "Probability",
+    "topics": {
+      "30.1": {
+        "title": "Introduction",
+        "book_page": "641"
+      },
+      "30.2": {
+        "title": "Recapitulation",
+        "book_page": "641"
+      },
+      "30.3": {
+        "title": "Conditional Probability",
+        "book_page": "649"
+      },
+      "30.4": {
+        "title": "Multiplication theorems on Probability",
+        "book_page": "658"
+      },
+      "30.5": {
+        "title": "More on conditional Probability",
+        "book_page": "663"
+      },
+      "30.6": {
+        "title": "Independent events",
+        "book_page": "676"
+      },
+      "30.7": {
+        "title": "More on theorems of Probability",
+        "book_page": "693"
+      },
+      "30.8": {
+        "title": "The law of total Probability",
+        "book_page": "709"
+      },
+      "30.9": {
+        "title": "Baye's Theorem",
+        "book_page": "719"
+      }
+    }
+  },
+  "31": {
+    "title": "Mean and Variance of a Random Variable",
+    "topics": {
+      "31.1": {
+        "title": "Introduction",
+        "book_page": "741"
+      },
+      "31.2": {
+        "title": "Discrete random variable",
+        "book_page": "741"
+      },
+      "31.3": {
+        "title": "Probability distribution",
+        "book_page": "742"
+      },
+      "31.4": {
+        "title": "Mean of a discrete random variable",
+        "book_page": "758"
+      },
+      "31.5": {
+        "title": "Variance of a discrete random variable",
+        "book_page": "759"
+      }
+    }
+  }
+}
